@@ -1,0 +1,11 @@
+body{
+	background: #ccc;
+	font-family: 'tahoma';
+}
+h1 {
+  color: red; }
+
+p {
+  background: #fff;
+  font-size: 15px;
+  line-height: 32px; }

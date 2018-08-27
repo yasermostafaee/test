@@ -1,0 +1,6 @@
+
+.idea/*
+.vscode/*
+node_modules/
+.eslintignore
+.eslintrc.json
